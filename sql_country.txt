@@ -1,0 +1,740 @@
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'A Coruña';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Agrigento';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Albacete';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Alessandria';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Alicante';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Almería';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Ancona';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Aosta';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Arezzo';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Ascoli Piceno';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Asti';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Asturias';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Aveiro';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Avellino';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Badajoz';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Balears (Illes)';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Barcelona';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Bari';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Barletta-Andria-Trani';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Beja';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Belluno';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Benevento';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Bergamo';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Biella';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Bologna';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Bolzano-Bozen';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Braga';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Bragança';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Brescia';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Brindisi';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Burgos';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Cagliari';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Caltanissetta';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Campobasso';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Cantabria';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Carbonia-Iglesias';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Caserta';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Castellón';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Castelo Branco';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Catania';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Catanzaro';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Ceuta';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Chieti';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Ciudad Real';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Coimbra';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Como';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Cosenza';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Cremona';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Crotone';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Cuenca';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Cuneo';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Cáceres';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Cádiz';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Córdoba';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Enna';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Faial (Ilha)';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Faro';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Fermo';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Ferrara';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Firenze';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Foggia';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Forlì-Cesena';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Frosinone';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Genova';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Girona';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Gorizia';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Granada';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Grosseto';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Guadalajara';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Guarda';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Guipúzcoa';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Huelva';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Huesca';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Imperia';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Isernia';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Jaén';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'L''Aquila';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'La Rioja';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'La Spezia';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Las Palmas';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Latina';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Lecce';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Lecco';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Leiria';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'León';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Lisboa';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Livorno';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Lleida';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Lodi';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Lucca';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Lugo';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Macerata';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Madeira (Ilha)';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Madrid';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Mantova';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Massa-Carrara';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Matera';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Medio Campidano';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Melilla';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Messina';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Milano';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Modena';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Monza-Brianza';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Murcia';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Málaga';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Napoli';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Navarra';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Novara';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Nuoro';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Ogliastra';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Olbia-Tempio';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Oristano';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Ourense';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Padova';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Palencia';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Palermo';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Parma';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Pavia';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Perugia';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Pesaro Urbino';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Pescara';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Piacenza';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Pisa';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Pistoia';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Pontevedra';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Pordenone';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Portalegre';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Porto';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Porto Santo (Ilha)';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Potenza';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Prato';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Ragusa';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Ravenna';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Reggio Calabria';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Reggio Emilia';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Rieti';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Rimini';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Roma';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Rovigo';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Salamanca';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Salerno';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Santa Cruz de Tenerife';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Santarém';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Sassari';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Savona';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Segovia';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Setúbal';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Sevilla';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Siena';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Siracusa';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Sondrio';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Soria';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'São Miguel (ilha)';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Taranto';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Tarragona';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Teramo';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Terceira (Ilha)';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Terni';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Teruel';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Toledo';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Torino';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Trapani';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Trento';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Treviso';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Trieste';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Udine';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Valladolid';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'València';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Varese';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Venezia';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Verbano-Cusio-Ossola';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Vercelli';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Verona';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Viana do Castelo';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Vibo Valentia';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Vicenza';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Vila Real';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Viseu';
+
+UPDATE idealista_basic_data 
+SET country = 'IT' 
+WHERE province = 'Viterbo';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Vizcaya';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Zamora';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Zaragoza';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Álava';
+
+UPDATE idealista_basic_data 
+SET country = 'ES' 
+WHERE province = 'Ávila';
+
+UPDATE idealista_basic_data 
+SET country = 'PT' 
+WHERE province = 'Évora';
